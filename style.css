@@ -1,0 +1,38 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+#header {
+    width: 100%;
+    font-size: 25px;
+}
+
+.sub-text {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+
+#objectName {
+    width: 300px;
+    padding: 8px;
+    border: none;
+    border-radius: 10px;
+}
+
+#startButton {
+    padding: 15px;
+    font-size: 16px;
+    border: lime 3px solid;
+}
+
+#status, #itemFound {
+    padding: 8px;
+}
+
+canvas {
+    border: white 5px solid;
+    border-radius: 10px;
+    margin-top: 400px;
+}
